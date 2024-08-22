@@ -7,24 +7,24 @@
     <language>en-us</language>
     
     <item>
-      <title>Version 1.0.1 (Dev)</title>
+      <title>Version 1.2.2 (Dev)</title>
       <description>Minor bug fixes and improvements.</description>
       <pubDate>Thu, 22 Aug 2024 10:00:00 +0000</pubDate>
-      <enclosure url="https://yourdomain.com/cc_pushka_dev_1_0_1.apk" length="123456" type="application/vnd.android.package-archive"/>
-      <sparkle:version>1.0.1</sparkle:version>
+      <enclosure url="https://appdistribution.firebase.google.com/testerapps/1:878130316285:android:1c606f039f080e99d78f94/releases/2hnjdcd4d7s20?utm_source=firebase-console" length="123456" type="application/vnd.android.package-archive"/>
+      <sparkle:version>1.2.2</sparkle:version>
       <sparkle:os>android</sparkle:os>
       <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
-      <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
+      <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
       <sparkle:bundleIdentifier>com.cursorblue.cc_pushka.dev</sparkle:bundleIdentifier>
       <sparkle:platform>android</sparkle:platform>
     </item>
 
     <item>
-      <title>Version 1.0.1 (Dev)</title>
+      <title>Version 1.2.2 (Dev)</title>
       <description>Minor bug fixes and improvements.</description>
       <pubDate>Thu, 22 Aug 2024 10:00:00 +0000</pubDate>
       <enclosure url="https://yourdomain.com/cc_pushka_dev_1_0_1.ipa" length="123456" type="application/octet-stream"/>
-      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:version>1.2.2</sparkle:version>
       <sparkle:os>ios</sparkle:os>
       <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
       <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
