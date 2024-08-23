@@ -5,19 +5,6 @@
     <link>https://yourdomain.com/appcast_prod.xml</link>
     <description>Latest updates for the production Pushka app.</description>
     <language>en-us</language>
-    
-    <item>
-      <title>Version 1.2.1 (Prod)</title>
-      <description>Color changes and performance improvements.</description>
-      <pubDate>Thu, 22 Aug 2024 12:00:00 +0000</pubDate>
-      <enclosure url="https://yourdomain.com/cc_pushka_prod_1_2_1.apk" length="123456" type="application/vnd.android.package-archive"/>
-      <sparkle:version>1.2.1</sparkle:version>
-      <sparkle:os>android</sparkle:os>
-      <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
-      <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
-      <sparkle:bundleIdentifier>com.cursorblue.cc_pushka</sparkle:bundleIdentifier>
-      <sparkle:platform>android</sparkle:platform>
-    </item>
 
     <item>
       <title>Version 1.2.1 (Prod)</title>
