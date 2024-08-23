@@ -13,9 +13,8 @@
       <enclosure url="https://yourdomain.com/cc_pushka_prod_1_2_1.apk" length="123456" type="application/vnd.android.package-archive"/>
       <sparkle:version>1.2.1</sparkle:version>
       <sparkle:os>android</sparkle:os>
-      <sparkle:minimumSystemVersion>1.1.0</sparkle:minimumSystemVersion>
-      <sparkle:maximumSystemVersion>1.9.0</sparkle:maximumSystemVersion>
-      <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
+      <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
       <sparkle:bundleIdentifier>com.cursorblue.cc_pushka</sparkle:bundleIdentifier>
       <sparkle:platform>android</sparkle:platform>
     </item>
@@ -27,9 +26,8 @@
       <enclosure url="https://apps.apple.com/in/app/colel-chabad-pushka/id1491701168?uo=4" length="123456" type="application/octet-stream"/>
       <sparkle:version>1.2.1</sparkle:version>
       <sparkle:os>ios</sparkle:os>
-      <sparkle:minimumSystemVersion>1.1.0</sparkle:minimumSystemVersion>
-      <sparkle:maximumSystemVersion>1.9.0</sparkle:maximumSystemVersion>
-      <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
+      <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
       <sparkle:bundleIdentifier>com.cursorblue.cc-pushka</sparkle:bundleIdentifier>
       <sparkle:platform>ios</sparkle:platform>
     </item>
